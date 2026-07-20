@@ -77,10 +77,10 @@ If you use this work in your research, please cite:
 ```bibtex
 @misc{nasirali_future_prep,
   author    = {Nasir Ali},
-  title     = {future prep},
+  title     = {Ion_Trap_Control_System_Engineering},
   year      = {2026},
   publisher = {GitHub},
-  url       = {https://github.com/nasir26/future_prep},
+  url       = {https://github.com/nasir26/Ion_Trap_Control_System_Engineering},
   note      = {Centre for Development of Advanced Computing (C-DAC), Noida, India}
 }
 ```
