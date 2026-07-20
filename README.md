@@ -1,8 +1,4 @@
-# QCore Prep — One-Month Ion-Trap QC Stack
-
-**Role:** Software Engineer, Quantum Systems @ QubitCore (OIST Okinawa)  
-**Start date:** ~15 August 2026  
-**Prep window:** 10 June – 14 August 2026 (weekdays only)
+#Ion-Trap QC Stack
 
 ## What this repo is
 
